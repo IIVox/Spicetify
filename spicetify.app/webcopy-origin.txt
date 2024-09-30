@@ -1,0 +1,600 @@
+Uri: https://i.imgur.com/5reGrBb.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\5reGrBb.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/D9ytt7K.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\D9ytt7K.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/evkGv9q.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\evkGv9q.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/gxbnqSN.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\gxbnqSN.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/isgU4TS.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\isgU4TS.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/jMGMgCc.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\jMGMgCc.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/kkSOtwG.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\kkSOtwG.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/LLF5ZGh.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\LLF5ZGh.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/MC3tpNZ.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\MC3tpNZ.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/MP9dTjt.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\MP9dTjt.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/Nx9Lx7D.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\Nx9Lx7D.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/pOFEqtM.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\pOFEqtM.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/QdwqtQa.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\QdwqtQa.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/S7CPQ2s.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\S7CPQ2s.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/WtD080A.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\WtD080A.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/YEkbjLC.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\YEkbjLC.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/yvrkllb.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\yvrkllb.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/ZFTy5Rm.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\ZFTy5Rm.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/ZsGwKG3.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\ZsGwKG3.png
+Content Type: image/png
+
+Uri: https://img.shields.io/github/stars/spicetify/cli?style=social
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\github\stars\spicetify\cli
+Content Type: image/svg+xml
+
+Uri: https://opencollective.com/spicetify/tiers/backer.svg?avatarHeight=60
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\spicetify\tiers\backer.svg
+Content Type: image/svg+xml
+
+Uri: https://opencollective.com/spicetify/tiers/supporter.svg?avatarHeight=36
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\spicetify\tiers\supporter.svg
+Content Type: image/svg+xml
+
+Uri: https://spicetify.app/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/assets/css/styles.de9f0cb5.css
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\assets\css\styles.de9f0cb5.css
+Content Type: text/css
+
+Uri: https://spicetify.app/assets/images/1-cc0512b8203d3dd0b03ab0401f56dcd6.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\assets\images\1-cc0512b8203d3dd0b03ab0401f56dcd6.png
+Content Type: image/png
+
+Uri: https://spicetify.app/assets/images/2-b1ef7cbb740b870f41b43963f828324b.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\assets\images\2-b1ef7cbb740b870f41b43963f828324b.png
+Content Type: image/png
+
+Uri: https://spicetify.app/assets/images/3-2a4a19b66340923a8f149ebe2383f225.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\assets\images\3-2a4a19b66340923a8f149ebe2383f225.png
+Content Type: image/png
+
+Uri: https://spicetify.app/assets/images/4-d43c14f408ecfb753eadd706132dadfe.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\assets\images\4-d43c14f408ecfb753eadd706132dadfe.png
+Content Type: image/png
+
+Uri: https://spicetify.app/assets/images/5-c4adaf5a1ef0ccd281b772b8c432b79e.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\assets\images\5-c4adaf5a1ef0ccd281b772b8c432b79e.png
+Content Type: image/png
+
+Uri: https://spicetify.app/assets/images/6-d3c41234a008580ee0f6dac5488f89fb.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\assets\images\6-d3c41234a008580ee0f6dac5488f89fb.png
+Content Type: image/png
+
+Uri: https://spicetify.app/assets/images/7-a51a5f1edbd9dbd7825d8e03f9d184fe.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\assets\images\7-a51a5f1edbd9dbd7825d8e03f9d184fe.png
+Content Type: image/png
+
+Uri: https://spicetify.app/assets/images/app-d2cee9a7a2c20d862b52b2969f7e9c0f.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\assets\images\app-d2cee9a7a2c20d862b52b2969f7e9c0f.png
+Content Type: image/png
+
+Uri: https://spicetify.app/assets/images/extension-709202f4342a58539c1ce6bab0055a39.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\assets\images\extension-709202f4342a58539c1ce6bab0055a39.png
+Content Type: image/png
+
+Uri: https://spicetify.app/assets/images/spicetify-full-0a1c13588ea8b2726007d9e45ec97c3f.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\assets\images\spicetify-full-0a1c13588ea8b2726007d9e45ec97c3f.png
+Content Type: image/png
+
+Uri: https://spicetify.app/assets/images/spicetify-svg-examples-daaf6ed7d8f2311dc5f0191a27a34c07.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\assets\images\spicetify-svg-examples-daaf6ed7d8f2311dc5f0191a27a34c07.png
+Content Type: image/png
+
+Uri: https://spicetify.app/assets/images/theme-0b57bbe8c2c5acb374ef3f365e60c443.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\assets\images\theme-0b57bbe8c2c5acb374ef3f365e60c443.png
+Content Type: image/png
+
+Uri: https://spicetify.app/assets/js/main.d11591dc.js
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\assets\js\main.d11591dc.js
+Content Type: application/javascript
+
+Uri: https://spicetify.app/assets/js/runtime~main.a67e74f2.js
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\assets\js\runtime~main.a67e74f2.js
+Content Type: application/javascript
+
+Uri: https://spicetify.app/blog/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\blog\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/blog/atom.xml
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\blog\atom.xml
+Content Type: application/xml
+
+Uri: https://spicetify.app/blog/first-blog-post/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\blog\first-blog-post\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/blog/rss.xml
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\blog\rss.xml
+Content Type: application/xml
+
+Uri: https://spicetify.app/blog/spicetify-org/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\blog\spicetify-org\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/blog/tags/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\blog\tags\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/blog/tags/community/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\blog\tags\community\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/blog/tags/development/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\blog\tags\development\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/blog/tags/documentation/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\blog\tags\documentation\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/blog/tags/spicetify/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\blog\tags\spicetify\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/blog/your-first-extension/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\blog\your-first-extension\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/advanced-usage/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\advanced-usage\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/advanced-usage/command-line-interface/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\advanced-usage\command-line-interface\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/advanced-usage/custom-apps/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\advanced-usage\custom-apps\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/advanced-usage/extensions/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\advanced-usage\extensions\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/advanced-usage/installation/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\advanced-usage\installation\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/advanced-usage/themes/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\advanced-usage\themes\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/advanced-usage/uninstallation/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\advanced-usage\uninstallation\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/classes/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\classes\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/classes/context-menu/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\classes\context-menu\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/classes/menu/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\classes\menu\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/classes/playbar/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\classes\playbar\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/classes/topbar/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\classes\topbar\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/functions/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\functions\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/functions/add-to-queue/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\functions\add-to-queue\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/functions/color-extractor/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\functions\color-extractor\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/functions/get-audio-data/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\functions\get-audio-data\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/functions/get-font-style/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\functions\get-font-style\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/functions/remove-from-queue/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\functions\remove-from-queue\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/functions/show-notification/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\functions\show-notification\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/methods/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\methods\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/methods/app-title/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\methods\app-title\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/methods/cosmos-async/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\methods\cosmos-async\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/methods/graphql/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\methods\graphql\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/methods/keyboard/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\methods\keyboard\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/methods/local-storage/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\methods\local-storage\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/methods/panel/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\methods\panel\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/methods/platform/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\methods\platform\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/methods/player/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\methods\player\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/methods/popup-modal/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\methods\popup-modal\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/methods/uri/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\methods\uri\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/modules/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\modules\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/properties/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\properties\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/properties/config/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\properties\config\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/properties/queue/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\properties\queue\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/properties/react-components/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\properties\react-components\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/properties/react-hook/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\properties\react-hook\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/properties/svgicons/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\properties\svgicons\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/properties/tippy-props/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\properties\tippy-props\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/context-menu/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\context-menu\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/context-menu/onclick-callback/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\context-menu\onclick-callback\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/context-menu/should-add-callback/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\context-menu\should-add-callback\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/context-option/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\context-option\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/context-track/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\context-track\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/cosmos-async/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\cosmos-async\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/cosmos-async/body/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\cosmos-async\body\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/cosmos-async/error/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\cosmos-async\error\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/cosmos-async/headers/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\cosmos-async\headers\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/cosmos-async/method/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\cosmos-async\method\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/cosmos-async/response/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\cosmos-async\response\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/graphql/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\graphql\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/graphql/query/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\graphql\query\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/keyboard/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\keyboard\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/keyboard/keysdefine/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\keyboard\keysdefine\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/keyboard/validkey/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\keyboard\validkey\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/metadata/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\metadata\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/panel/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\panel\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/panel/panel-props/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\panel\panel-props\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/player-state/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\player-state\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/provided-track/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\provided-track\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/react-component/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\react-component\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/react-component/confirm-dialog-props/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\react-component\confirm-dialog-props\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/react-component/context-menu-props/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\react-component\context-menu-props\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/react-component/icon-component-props/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\react-component\icon-component-props\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/react-component/menu-item-props/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\react-component\menu-item-props\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/react-component/menu-props/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\react-component\menu-props\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/react-component/panel-content-props/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\react-component\panel-content-props\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/react-component/panel-header-props/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\react-component\panel-header-props\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/react-component/panel-skeleton-props/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\react-component\panel-skeleton-props\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/react-component/slider-props/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\react-component\slider-props\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/react-component/text-component-props/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\react-component\text-component-props\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/react-component/toggle-props/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\react-component\toggle-props\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/react-component/tooltip-props/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\react-component\tooltip-props\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/semantic-color/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\semantic-color\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/svgicon/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\svgicon\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/uri/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\uri\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/uri/type/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\uri\type\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/uri/validation-functions/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\uri\validation-functions\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/api-wrapper/types/variant/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\api-wrapper\types\variant\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/compiling/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\compiling\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/custom-apps/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\custom-apps\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/js-modules/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\js-modules\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/spicetify-creator/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\spicetify-creator\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/spicetify-creator/building-and-testing/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\spicetify-creator\building-and-testing\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/spicetify-creator/create-custom-apps/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\spicetify-creator\create-custom-apps\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/spicetify-creator/create-extensions/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\spicetify-creator\create-extensions\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/spicetify-creator/the-basics/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\spicetify-creator\the-basics\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/spotify-cli-flags/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\spotify-cli-flags\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/development/themes/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\development\themes\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/faq/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\faq\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/docs/getting-started/
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\docs\getting-started\index.htm
+Content Type: text/html
+
+Uri: https://spicetify.app/images/favicon.ico
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\images\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://spicetify.app/images/spicetify.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\images\spicetify.png
+Content Type: image/png
+
+Uri: https://spicetify.app/opensearch.xml
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\opensearch.xml
+Content Type: application/xml
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\beacon.min.js
+Content Type: text/javascript
+
+Uri: https://user-images.githubusercontent.com/26436809/57563050-81408780-73dc-11e9-92e8-d0cc60502ff3.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\26436809\57563050-81408780-73dc-11e9-92e8-d0cc60502ff3.png
+Content Type: image/png
+
+Uri: https://user-images.githubusercontent.com/26436809/57563057-9ddcbf80-73dc-11e9-82d8-d31cdf7e9cef.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\26436809\57563057-9ddcbf80-73dc-11e9-82d8-d31cdf7e9cef.png
+Content Type: image/png
+
+Uri: https://user-images.githubusercontent.com/26436809/86569793-50dd8480-bfb2-11ea-8d82-be238d719660.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\26436809\86569793-50dd8480-bfb2-11ea-8d82-be238d719660.png
+Content Type: image/png
+
+Uri: https://user-images.githubusercontent.com/56180050/158084602-99428adf-93bb-4983-968f-14e1f4f5b253.png
+File Name: C:\Users\notme\OneDrive\Desktop\Spicetify\spicetify.app\56180050\158084602-99428adf-93bb-4983-968f-14e1f4f5b253.png
+Content Type: image/png
+
